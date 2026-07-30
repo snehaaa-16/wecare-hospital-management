@@ -17,6 +17,3 @@ A full-stack hospital management web application for managing patients, doctors,
 - backend/   - REST APIs and business logic
 - frontend/  - Patient-facing web application
 - admin/     - Admin dashboard
-
-## Live Demo
-https://wecare-ipi9.onrender.com
